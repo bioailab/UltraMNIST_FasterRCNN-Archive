@@ -1,3 +1,5 @@
+### See [the author's](https://rohit102497.github.io/) git repository here: https://github.com/Rohit102497/UltraMNIST_FasterRCNN
+
 # An UltraMNIST classification benchmark to train CNNs for very large images
 
 This repository contains the experiment corresponding to section **Implications of Noise** in the above paper.
