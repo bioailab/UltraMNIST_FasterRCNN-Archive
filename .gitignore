@@ -1,0 +1,7 @@
+data/ultramnist_2800/
+data/ultramnist_280/
+Faster_RCNN/inference_outputs/images/
+Faster_RCNN/inference_outputs/prediction_labels/
+Faster_RCNN/outputs/*.pth
+Faster_RCNN/outputs/*.png
+*__pycache__/

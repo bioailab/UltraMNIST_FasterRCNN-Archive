@@ -1,0 +1,1 @@
+This folder stores the generated UltraMNIST data with 2800 train and test images.

@@ -1,0 +1,13 @@
+import pickle
+import os
+
+root_path = "../data/"
+root_path = os.path.join(root_path, 'ultramnist')
+train_path = os.path.join(root_path, 'train')
+
+result_addr = f'{train_path}/labels.data'
+
+file = open(result_addr, 'rb') 
+data = pickle.load(file) 
+
+print(data)
